@@ -98,3 +98,6 @@ jspm_packages/
 
 # Exclude weather-app folder
 weather-app/
+
+# Exclude .claude folder
+.claude/
